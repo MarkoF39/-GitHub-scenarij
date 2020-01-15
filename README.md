@@ -1,0 +1,2 @@
+# -GitHub-scenarij
+Moj repositori
